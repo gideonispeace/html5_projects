@@ -1,0 +1,11 @@
+{
+  "name": "my First ever Heroku deploy",
+  "version": "1.0.0",
+  "description": "First personal html site",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
